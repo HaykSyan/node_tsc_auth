@@ -1,0 +1,9 @@
+{
+  "DB": "",
+  "DB_USER": "root",
+  "DB_PASSWORD": "",
+  "HOST": "127.0.0.1",
+  "HASH_SALT_ROUND": 12,
+  "JWT_SECRET": "secret",
+  "JWT_SECRET_FORGOT": ""
+}
